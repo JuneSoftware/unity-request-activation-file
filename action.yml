@@ -4,7 +4,7 @@ description: 'Request the manual activation file for acquiring a Unity personal 
 inputs:
   unityVersion:
     required: false
-    default: '2019.2.11f1'
+    default: '2020.3.0f1'
     description: 'Version of unity to use for building the project.'
   customImage:
     required: false
